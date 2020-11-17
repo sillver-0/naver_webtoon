@@ -22,8 +22,10 @@
 
 0827tst.csv: 테스트에 사용한 완결 웹툰 데이터 (최신 데이터)
 
-comment_code.py:
+comment_code_0808.py: 웹툰 크롤링 코드 1
 
-dl_0810.py:
+dl_0808.py: 딥러닝 (감성분석) 코드
 
-ml_0810.py:
+ml0827.py: 머신러닝 코드
+
+webtoon_config_0808.py: 웹툰 크롤링 코드 2
